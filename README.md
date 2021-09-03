@@ -49,6 +49,7 @@ way to be a mlops developer. until 2021.09.03
 | Done | Title                                                        | Notes                       | Date       |
 | ---- | ------------------------------------------------------------ | --------------------------- | ---------- |
 | ✅    | [SW개발부터 AI까지, W AI Production팀](https://recruit.webtoonscorp.com/webtoon/ko/insideDetail?id=12) | [링크](./posts/sw-to-ai.md) | 2021.09.03 |
+|      |                                                              |                             |            |
 
 
 
@@ -72,9 +73,8 @@ way to be a mlops developer. until 2021.09.03
 
 ### GAN 인 액션
 
-- 내용 정리하기
-
-| Done | Title           | Date       | Note                                 |
-| ---- | --------------- | ---------- | ------------------------------------ |
-| ✅    | 1. GAN 시작하기 | 2021.09.03 | [링크](gan-in-action/1_start_gan.md) |
+| Done | Title                     | Date       | Note                                   |
+| ---- | ------------------------- | ---------- | -------------------------------------- |
+| ✅    | 1. GAN 시작하기           | 2021.09.03 | [링크](gan-in-action/1_start_gan.md)   |
+| ✅    | 2. 오토인코더와 생성 학습 | 2021.09.03 | [링크](gan-in-action/2_autoencoder.md) |
 
