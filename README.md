@@ -2,7 +2,7 @@
 
 
 
-<img src='assets/logo.png' width="100"/>
+<center><img src='assets/logo.png' width="100"/></center>
 
 way to be a mlops developer. until 2021.09.03
 
