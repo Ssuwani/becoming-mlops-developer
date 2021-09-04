@@ -19,6 +19,7 @@ way to be a mlops developer. until 2021.09.03
 | Done | Categories              | Title     | Date       | Summary                               |
 | ---- | ----------------------- | --------- | ---------- | ------------------------------------- |
 | ✅    | `Foundations` `Toolkit` | Notebooks | 2021.09.04 | [링크](./made-with-ml/1_notebooks.md) |
+| ✅    | `Foundations` `Toolkit` | Python    | 2021.09.04 | [링크](./made-with-ml/2_python.md)    |
 
 
 
