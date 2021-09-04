@@ -74,6 +74,7 @@ way to be a mlops developer. until 2021.09.03
 
 | Done | Title                     | Date       | Note                                   |
 | ---- | ------------------------- | ---------- | -------------------------------------- |
-| ✅    | 1. GAN 시작하기           | 2021.09.03 | [링크](gan-in-action/1_start_gan.md)   |
+| ✅    | 1. GAN 시작하기           | 2021.09.03 | [링크](gan-in-action/1_start-gan.md)   |
 | ✅    | 2. 오토인코더와 생성 학습 | 2021.09.03 | [링크](gan-in-action/2_autoencoder.md) |
+| ✅    | 3. 첫 번째 GAN 구현하기   | 2021.09.04 | [링크](gan-in-action/3_first-gan.md)   |
 
