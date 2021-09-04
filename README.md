@@ -16,13 +16,11 @@ way to be a mlops developer. until 2021.09.03
 
 ## Made With ML
 
-- 내용 정리하기 - 번역 느낌으로다가
+| Done | Categories              | Title     | Date       | Summary                               |
+| ---- | ----------------------- | --------- | ---------- | ------------------------------------- |
+| ✅    | `Foundations` `Toolkit` | Notebooks | 2021.09.04 | [링크](./made-with-ml/1_notebooks.md) |
 
-    | Done | Categories              | Title     | Date |
-    | ---- | ----------------------- | --------- | ---- |
-    | 🔳    | `Foundations` `Toolkit` | Notebooks |      |
-    
-    
+
 
 ## FullStackDeepLearning
 
