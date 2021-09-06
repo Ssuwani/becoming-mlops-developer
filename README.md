@@ -72,9 +72,10 @@ way to be a mlops developer. until 2021.09.03
 
 ### GAN 인 액션
 
-| Done | Title                     | Date       | Note                                   |
-| ---- | ------------------------- | ---------- | -------------------------------------- |
-| ✅    | 1. GAN 시작하기           | 2021.09.03 | [링크](gan-in-action/1_start-gan.md)   |
-| ✅    | 2. 오토인코더와 생성 학습 | 2021.09.03 | [링크](gan-in-action/2_autoencoder.md) |
-| ✅    | 3. 첫 번째 GAN 구현하기   | 2021.09.04 | [링크](gan-in-action/3_first-gan.md)   |
+| Done | Title                     | Date       | Note                                   | Code                                      |
+| ---- | ------------------------- | ---------- | -------------------------------------- | ----------------------------------------- |
+| ✅    | 1. GAN 시작하기           | 2021.09.03 | [링크](gan-in-action/1_start-gan.md)   |                                           |
+| ✅    | 2. 오토인코더와 생성 학습 | 2021.09.03 | [링크](gan-in-action/2_autoencoder.md) |                                           |
+| ✅    | 3. 첫 번째 GAN 구현하기   | 2021.09.04 | [링크](gan-in-action/3_first-gan.md)   | [링크](gan-in-action/3_gan-mnist.ipynb)   |
+| ✅    | 4. DCGAN                  | 2021.09.06 | [링크](gan-in-action/4_dcgan.md)       | [링크](gan-in-action/4_dcgan-mnist.ipynb) |
 
